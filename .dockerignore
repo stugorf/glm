@@ -1,0 +1,11 @@
+# Directories
+arxiv
+aws
+docs
+test
+
+# Files
+*.sh
+*.sql
+*.ps1
+.gitkeep
